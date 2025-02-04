@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import { motion } from 'motion/react'
-const girlName = "RITEJ"
+const girlName = "xxxx"
 function App() {
     // GET ELEMENT POSITION 
   const Ref = useRef(null);
